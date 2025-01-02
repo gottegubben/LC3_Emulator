@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "D:\\Programs\\MSYS2\\ucrt64\\bin\\gcc.exe",
+    "files.associations": {
+        "*.C": "c",
+        "stdio.h": "c",
+        "signal.h": "c",
+        "conio.h": "c"
+    }
+}
